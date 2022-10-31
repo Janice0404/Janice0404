@@ -11,7 +11,7 @@
   
 - <b>Microsoft Azure</b>
   
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/janice0404/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Janice0404/Azure-Network-Security-Groups)
 
 <h2>🤳Connect with me:</h2>
 
